@@ -1,0 +1,8 @@
+site_name: "testSpring"
+site_description: "testSpring"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

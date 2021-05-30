@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "testSpring"
+  description: "testSpring"
+  annotations:
+    github.com/project-slug: mthad/testspring
+    backstage.io/techdocs-ref: url:https://github.com/mthad/testspring
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "mthad"
